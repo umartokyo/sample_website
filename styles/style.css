@@ -1,0 +1,38 @@
+html {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #010c1e;
+    color: #c6cdd7;
+}
+
+h1, p {
+    margin: 0;
+    padding: 20px 0;
+    size: 60px;
+    text-align: center;
+}
+
+p, li, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 2;
+    color: #c6cdd7;
+    
+}
+
+a:active, a:visited, a:hover, a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+body {
+    width: 400px;
+    margin: 0 auto;
+    padding: 50px 20px 20px 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
